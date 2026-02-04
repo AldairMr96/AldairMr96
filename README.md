@@ -70,12 +70,12 @@ Feel free to check out my [GitHub Projects](https://github.com/AldairMr96)!
   <img src="https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white">
 </span>
 
-</span>
-<h3 align="left">Office :</h3>
+<h3 align="left">Office:</h3>
 <span>
-  <img src="[https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white](https://img.shields.io/badge/Google%20Sheets-%2334A853?style=for-the-badge&logo=googlesheets&logoColor=white)">
-  <img src="[https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)">
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853.svg?style=for-the-badge&logo=googlesheets&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_Office-0078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white">
 </span>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
